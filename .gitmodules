@@ -1,3 +1,0 @@
-[submodule "tensorforce"]
-	path = tensorforce
-	url = https://github.com/tensorforce/tensorforce.git
